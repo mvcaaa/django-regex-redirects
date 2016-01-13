@@ -4,7 +4,7 @@ from setuptools import find_packages
 
 setup(
     name='django-regex-redirects',
-    version='0.0.2',
+    version='0.0.3',
     author=u'Alex de Landgraaf, Andrey Astashov',
     author_email='alex@maykinmedia.nl, mvc.aaa@gmail.com',
     packages=find_packages(),
