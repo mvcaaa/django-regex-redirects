@@ -8,7 +8,7 @@ setup(
     author=u'Alex de Landgraaf, Andrey Astashov',
     author_email='alex@maykinmedia.nl, mvc.aaa@gmail.com',
     packages=find_packages(),
-    url='https://github.com/maykinmedia/django-regex-redirects',
+    url='https://github.com/mvcaaa/django-regex-redirects',
     license='BSD licence, see LICENCE.txt',
     description='Django redirects, with regular expressions',
     include_package_data=True,
