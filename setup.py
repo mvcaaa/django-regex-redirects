@@ -4,9 +4,9 @@ from setuptools import find_packages
 
 setup(
     name='django-regex-redirects',
-    version='0.0.1',
-    author=u'Alex de Landgraaf',
-    author_email='alex@maykinmedia.nl',
+    version='0.0.2',
+    author=u'Alex de Landgraaf, Andrey Astashov',
+    author_email='alex@maykinmedia.nl, mvc.aaa@gmail.com',
     packages=find_packages(),
     url='https://github.com/maykinmedia/django-regex-redirects',
     license='BSD licence, see LICENCE.txt',
